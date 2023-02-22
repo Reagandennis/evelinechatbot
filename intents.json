@@ -1,0 +1,32 @@
+{
+    "greeting": {
+        "patterns": ["hi", "hello", "hey"],
+        "responses": ["Hello there!", "Hi!", "Hey!"]
+    },
+    "goodbye": {
+        "patterns": ["attachment"],
+        "responses": ["pre! or post attachment"]
+    },
+    "thanks": {
+        "patterns": ["deferal letter"],
+        "responses": ["if you are in need of a deferal letter \n please visit the registar"]
+    },
+    "other": {
+        "patterns": ["missing marks"],
+        "responses": ["if you have any missing marks \n please go see the dean"]
+    },
+    "new": {
+        "patterns": ["contacts"],
+        "responses": ["the dean's name: Stella Korir \n the dean's contact: 0722228266 \n secraty name: Daisy \n secraty contact: 07594659"]
+    },
+    "elctions": {
+        "patterns": ["election status"],
+        "responses": ["Kabarak school elections are held annually as per the regulations"]
+    },
+    "red": {
+        "patterns": ["exams collide"],
+        "responses": ["consult the lecture in-charge \n and the Head of department for further details"]
+    }
+    
+   }
+   
